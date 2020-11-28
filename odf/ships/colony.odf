@@ -1,4 +1,10 @@
+//GENERAL FILE for colony ships
+
+// include Craft defaults
 #include "craft.odf"
+
+// include new autonomy defaults
+#include "0low-high-high.oif"
 
 //This is for stat accumulation
 shipclass = "colony"
