@@ -1,9 +1,9 @@
 //GENERAL FILE for Scout ships
 
+#include "craft.odf"
+
 //This is for stat accumulation
 shipclass = "scout"
-
-#include "craft.odf"
 
 //Maximum Value of Special Energy
 maxSpecialEnergy = 0
