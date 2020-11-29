@@ -1,6 +1,6 @@
 // I exist to be included
 
 // Alter default autonomy to GREEN/HIGH/HIGH
-defaultAlertStatus = ALERT_STATUS_GREEN
-defaultMovementAutonomy = MOVEMENT_AUTONOMY_HIGH
-defaultSpecialWeaponAutonomy = SPECIAL_WEAPON_AUTONOMY_HIGH
+defaultAlertStatus = 2
+defaultMovementAutonomy = 2
+defaultSpecialWeaponAutonomy = 2
